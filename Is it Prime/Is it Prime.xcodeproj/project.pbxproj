@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A20D9C4E1D5CFC55002E9749 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20D9C4D1D5CFC55002E9749 /* AppDelegate.swift */; };
-		A20D9C501D5CFC55002E9749 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20D9C4F1D5CFC55002E9749 /* ViewController.swift */; };
-		A20D9C531D5CFC55002E9749 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20D9C511D5CFC55002E9749 /* Main.storyboard */; };
-		A20D9C551D5CFC55002E9749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20D9C541D5CFC55002E9749 /* Assets.xcassets */; };
-		A20D9C581D5CFC55002E9749 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20D9C561D5CFC55002E9749 /* LaunchScreen.storyboard */; };
+		A2F967071D5E4D4B00FA66D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F967061D5E4D4B00FA66D5 /* AppDelegate.swift */; };
+		A2F967091D5E4D4B00FA66D5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F967081D5E4D4B00FA66D5 /* ViewController.swift */; };
+		A2F9670C1D5E4D4B00FA66D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2F9670A1D5E4D4B00FA66D5 /* Main.storyboard */; };
+		A2F9670E1D5E4D4B00FA66D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2F9670D1D5E4D4B00FA66D5 /* Assets.xcassets */; };
+		A2F967111D5E4D4B00FA66D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2F9670F1D5E4D4B00FA66D5 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A20D9C4A1D5CFC55002E9749 /* Is it Prime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Is it Prime.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A20D9C4D1D5CFC55002E9749 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A20D9C4F1D5CFC55002E9749 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A20D9C521D5CFC55002E9749 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A20D9C541D5CFC55002E9749 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A20D9C571D5CFC55002E9749 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A20D9C591D5CFC55002E9749 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2F967031D5E4D4B00FA66D5 /* Is It Prime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Is It Prime.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2F967061D5E4D4B00FA66D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A2F967081D5E4D4B00FA66D5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A2F9670B1D5E4D4B00FA66D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A2F9670D1D5E4D4B00FA66D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A2F967101D5E4D4B00FA66D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A2F967121D5E4D4B00FA66D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A20D9C471D5CFC55002E9749 /* Frameworks */ = {
+		A2F967001D5E4D4B00FA66D5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A20D9C411D5CFC55002E9749 = {
+		A2F966FA1D5E4D4B00FA66D5 = {
 			isa = PBXGroup;
 			children = (
-				A20D9C4C1D5CFC55002E9749 /* Is it Prime */,
-				A20D9C4B1D5CFC55002E9749 /* Products */,
+				A2F967051D5E4D4B00FA66D5 /* Is It Prime */,
+				A2F967041D5E4D4B00FA66D5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A20D9C4B1D5CFC55002E9749 /* Products */ = {
+		A2F967041D5E4D4B00FA66D5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A20D9C4A1D5CFC55002E9749 /* Is it Prime.app */,
+				A2F967031D5E4D4B00FA66D5 /* Is It Prime.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A20D9C4C1D5CFC55002E9749 /* Is it Prime */ = {
+		A2F967051D5E4D4B00FA66D5 /* Is It Prime */ = {
 			isa = PBXGroup;
 			children = (
-				A20D9C4D1D5CFC55002E9749 /* AppDelegate.swift */,
-				A20D9C4F1D5CFC55002E9749 /* ViewController.swift */,
-				A20D9C511D5CFC55002E9749 /* Main.storyboard */,
-				A20D9C541D5CFC55002E9749 /* Assets.xcassets */,
-				A20D9C561D5CFC55002E9749 /* LaunchScreen.storyboard */,
-				A20D9C591D5CFC55002E9749 /* Info.plist */,
+				A2F967061D5E4D4B00FA66D5 /* AppDelegate.swift */,
+				A2F967081D5E4D4B00FA66D5 /* ViewController.swift */,
+				A2F9670A1D5E4D4B00FA66D5 /* Main.storyboard */,
+				A2F9670D1D5E4D4B00FA66D5 /* Assets.xcassets */,
+				A2F9670F1D5E4D4B00FA66D5 /* LaunchScreen.storyboard */,
+				A2F967121D5E4D4B00FA66D5 /* Info.plist */,
 			);
-			path = "Is it Prime";
+			path = "Is It Prime";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A20D9C491D5CFC55002E9749 /* Is it Prime */ = {
+		A2F967021D5E4D4B00FA66D5 /* Is It Prime */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A20D9C5C1D5CFC55002E9749 /* Build configuration list for PBXNativeTarget "Is it Prime" */;
+			buildConfigurationList = A2F967151D5E4D4B00FA66D5 /* Build configuration list for PBXNativeTarget "Is It Prime" */;
 			buildPhases = (
-				A20D9C461D5CFC55002E9749 /* Sources */,
-				A20D9C471D5CFC55002E9749 /* Frameworks */,
-				A20D9C481D5CFC55002E9749 /* Resources */,
+				A2F966FF1D5E4D4B00FA66D5 /* Sources */,
+				A2F967001D5E4D4B00FA66D5 /* Frameworks */,
+				A2F967011D5E4D4B00FA66D5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Is it Prime";
-			productName = "Is it Prime";
-			productReference = A20D9C4A1D5CFC55002E9749 /* Is it Prime.app */;
+			name = "Is It Prime";
+			productName = "Is It Prime";
+			productReference = A2F967031D5E4D4B00FA66D5 /* Is It Prime.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A20D9C421D5CFC55002E9749 /* Project object */ = {
+		A2F966FB1D5E4D4B00FA66D5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = Nas;
 				TargetAttributes = {
-					A20D9C491D5CFC55002E9749 = {
+					A2F967021D5E4D4B00FA66D5 = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = A20D9C451D5CFC55002E9749 /* Build configuration list for PBXProject "Is it Prime" */;
+			buildConfigurationList = A2F966FE1D5E4D4B00FA66D5 /* Build configuration list for PBXProject "Is It Prime" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = A20D9C411D5CFC55002E9749;
-			productRefGroup = A20D9C4B1D5CFC55002E9749 /* Products */;
+			mainGroup = A2F966FA1D5E4D4B00FA66D5;
+			productRefGroup = A2F967041D5E4D4B00FA66D5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A20D9C491D5CFC55002E9749 /* Is it Prime */,
+				A2F967021D5E4D4B00FA66D5 /* Is It Prime */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A20D9C481D5CFC55002E9749 /* Resources */ = {
+		A2F967011D5E4D4B00FA66D5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A20D9C581D5CFC55002E9749 /* LaunchScreen.storyboard in Resources */,
-				A20D9C551D5CFC55002E9749 /* Assets.xcassets in Resources */,
-				A20D9C531D5CFC55002E9749 /* Main.storyboard in Resources */,
+				A2F967111D5E4D4B00FA66D5 /* LaunchScreen.storyboard in Resources */,
+				A2F9670E1D5E4D4B00FA66D5 /* Assets.xcassets in Resources */,
+				A2F9670C1D5E4D4B00FA66D5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A20D9C461D5CFC55002E9749 /* Sources */ = {
+		A2F966FF1D5E4D4B00FA66D5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A20D9C501D5CFC55002E9749 /* ViewController.swift in Sources */,
-				A20D9C4E1D5CFC55002E9749 /* AppDelegate.swift in Sources */,
+				A2F967091D5E4D4B00FA66D5 /* ViewController.swift in Sources */,
+				A2F967071D5E4D4B00FA66D5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A20D9C511D5CFC55002E9749 /* Main.storyboard */ = {
+		A2F9670A1D5E4D4B00FA66D5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A20D9C521D5CFC55002E9749 /* Base */,
+				A2F9670B1D5E4D4B00FA66D5 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A20D9C561D5CFC55002E9749 /* LaunchScreen.storyboard */ = {
+		A2F9670F1D5E4D4B00FA66D5 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A20D9C571D5CFC55002E9749 /* Base */,
+				A2F967101D5E4D4B00FA66D5 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A20D9C5A1D5CFC55002E9749 /* Debug */ = {
+		A2F967131D5E4D4B00FA66D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -212,7 +212,7 @@
 			};
 			name = Debug;
 		};
-		A20D9C5B1D5CFC55002E9749 /* Release */ = {
+		A2F967141D5E4D4B00FA66D5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -254,25 +254,25 @@
 			};
 			name = Release;
 		};
-		A20D9C5D1D5CFC55002E9749 /* Debug */ = {
+		A2F967161D5E4D4B00FA66D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Is it Prime/Info.plist";
+				INFOPLIST_FILE = "Is It Prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Nas.Is-it-Prime";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Nas.Is-It-Prime";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		A20D9C5E1D5CFC55002E9749 /* Release */ = {
+		A2F967171D5E4D4B00FA66D5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "Is it Prime/Info.plist";
+				INFOPLIST_FILE = "Is It Prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.Nas.Is-it-Prime";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Nas.Is-It-Prime";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -281,24 +281,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A20D9C451D5CFC55002E9749 /* Build configuration list for PBXProject "Is it Prime" */ = {
+		A2F966FE1D5E4D4B00FA66D5 /* Build configuration list for PBXProject "Is It Prime" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A20D9C5A1D5CFC55002E9749 /* Debug */,
-				A20D9C5B1D5CFC55002E9749 /* Release */,
+				A2F967131D5E4D4B00FA66D5 /* Debug */,
+				A2F967141D5E4D4B00FA66D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A20D9C5C1D5CFC55002E9749 /* Build configuration list for PBXNativeTarget "Is it Prime" */ = {
+		A2F967151D5E4D4B00FA66D5 /* Build configuration list for PBXNativeTarget "Is It Prime" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A20D9C5D1D5CFC55002E9749 /* Debug */,
-				A20D9C5E1D5CFC55002E9749 /* Release */,
+				A2F967161D5E4D4B00FA66D5 /* Debug */,
+				A2F967171D5E4D4B00FA66D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A20D9C421D5CFC55002E9749 /* Project object */;
+	rootObject = A2F966FB1D5E4D4B00FA66D5 /* Project object */;
 }

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Is it Prime
+//  Is It Prime
 //
-//  Created by Abdul Wahab on 8/11/16.
+//  Created by Abdul Wahab on 8/12/16.
 //  Copyright © 2016 Nas. All rights reserved.
 //
 
