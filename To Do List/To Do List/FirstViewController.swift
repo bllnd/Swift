@@ -63,7 +63,7 @@ class FirstViewController: UIViewController, UITableViewDelegate, UITableViewDat
             
             table.reloadData()
         
-            let itemsObject = UserDefaults.standard.object(forKey: "items")
+            UserDefaults.standard.set(items, forKey: "items")
 
         }
     }
