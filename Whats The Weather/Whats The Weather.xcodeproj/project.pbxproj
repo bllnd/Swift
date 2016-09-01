@@ -12,6 +12,7 @@
 		A20189F71D788B65006908BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20189F51D788B65006908BC /* Main.storyboard */; };
 		A20189F91D788B65006908BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20189F81D788B65006908BC /* Assets.xcassets */; };
 		A20189FC1D788B65006908BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20189FA1D788B65006908BC /* LaunchScreen.storyboard */; };
+		A2018A041D788E27006908BC /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A2018A031D788E27006908BC /* background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A20189F81D788B65006908BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A20189FB1D788B65006908BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A20189FD1D788B65006908BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2018A031D788E27006908BC /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A20189F11D788B65006908BC /* AppDelegate.swift */,
 				A20189F31D788B65006908BC /* ViewController.swift */,
 				A20189F51D788B65006908BC /* Main.storyboard */,
+				A2018A031D788E27006908BC /* background.jpeg */,
 				A20189F81D788B65006908BC /* Assets.xcassets */,
 				A20189FA1D788B65006908BC /* LaunchScreen.storyboard */,
 				A20189FD1D788B65006908BC /* Info.plist */,
@@ -126,6 +129,7 @@
 				A20189FC1D788B65006908BC /* LaunchScreen.storyboard in Resources */,
 				A20189F91D788B65006908BC /* Assets.xcassets in Resources */,
 				A20189F71D788B65006908BC /* Main.storyboard in Resources */,
+				A2018A041D788E27006908BC /* background.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
